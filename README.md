@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Blog django-rest project**
 
-- 🌱 I’m currently learning **React.js, Django, Django-rest, Django-orm, PostgreSQL**
+- 🌱 I’m currently learning **React.js, Django, Django-rest, Django-orm, PostgreSQL, C-intern,**
 
 - 👨‍💻 All of my projects are available at [https://github.com/DarkLorianPrime?tab=repositories](https://github.com/DarkLorianPrime?tab=repositories)
 
