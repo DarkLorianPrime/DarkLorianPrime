@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **My VK library**
 
-- 🌱 I’m currently learning **React.js, Django, Django-rest, Django-orm, PostgreSQL, C-intern,**
+- 🌱 I’m currently learning **React.js, Django, Django-rest, Django-orm, PostgreSQL**
 
 - 👨‍💻 All of my projects are available at [https://github.com/DarkLorianPrime?tab=repositories](https://github.com/DarkLorianPrime?tab=repositories)
 
