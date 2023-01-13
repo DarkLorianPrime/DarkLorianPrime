@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alexander Kasimov</h1>
 <h3 align="center">A Backend-junior from Ulyanovsk</h3>
 
-- 🔭 I’m currently working on **My VK library**
+- 🔭 I’m currently working on **several projects**
 
 - 🌱 I’m currently learning **React.js, Django, Django-rest, Django-orm, PostgreSQL**
 
