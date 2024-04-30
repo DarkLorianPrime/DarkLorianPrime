@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img width="190" src="https://raw.githubusercontent.com/DarkLorianPrime/DarkLorianPrime/main/sticker.webp" alt="">
+  <img width="190" src="https://i.imgur.com/c6alVqy.png" alt="">
 </div>
 <div id="hero" align="center">
   <h3>Hi there!👋</h3>
@@ -10,22 +10,22 @@
         <a href="https://vk.com/darklorianprime"><img src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white" alt=""></a>
         <a href="https://t.me/darklorianprime"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
     </div>
-    <a href="https://ulyanovsk.hh.ru/resume/448f8d1cff08fdb7a60039ed1f754c73527566"><img src="https://raw.githubusercontent.com/DarkLorianPrime/DarkLorianPrime/main/hh.png" width="130"></a>
+    <a href="https://ulyanovsk.hh.ru/resume/448f8d1cff08fdb7a60039ed1f754c73527566"><img src="https://i.imgur.com/O9Z2Lxv.png" width="130"></a>
   </div>
 </div>
 
 ---
 
 <h1>
-  <img width="30" src="https://raw.githubusercontent.com/DarkLorianPrime/DarkLorianPrime/main/fox_upper.png">About me:
+  <img width="30" src="https://i.imgur.com/0Ckf3z0.png">About me:
 </h1>
 <ul>
   <li>
-    <img width="15" src="https://raw.githubusercontent.com/DarkLorianPrime/DarkLorianPrime/main/fox_magic.png">
+    <img width="15" src="https://i.imgur.com/UnsUYxO.png">
     Work in Gazprombank, <b>Center for Artificial Intelligence Technologies</b>, but aiming for the stars (backend 🤪)</h>
   </li>
   <li>
-    <img width="15" src="https://raw.githubusercontent.com/DarkLorianPrime/DarkLorianPrime/main/trap_fox.png">
+    <img width="15" src="https://i.imgur.com/vQTuFG6.png">
     In my free time, I'm immersed in several exciting projects. 👇
 
 <a align="center" href="https://github.com/DarkLorianPrime?tab=repositories"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
@@ -105,7 +105,7 @@
         </td>
     </tr>
 </table>
-<h1>My github stats <img width="40" src="https://raw.githubusercontent.com/DarkLorianPrime/DarkLorianPrime/main/fox_hole.png"></h1>
+<h1>My github stats <img width="40" src="https://i.imgur.com/UFzk6Wb.png"></h1>
 <details>
   <summary>GitHub Profile Stats 💻</summary>
   <br/>
@@ -118,4 +118,4 @@
   <img src="https://komarev.com/ghpvc/?username=darklorianprime&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
 </details>
 <br>
-<img src="https://raw.githubusercontent.com/DarkLorianPrime/DarkLorianPrime/main/fox.gif">
+<img src="https://i.imgur.com/UYFiW7V.gif">
